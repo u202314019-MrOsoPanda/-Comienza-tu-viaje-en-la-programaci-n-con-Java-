@@ -2,6 +2,8 @@
 
 # **Reporte del Proyecto: Curso de Introducción a la Programación en Java**
 
+## Lista de reproduccion ## 
+
 ## **Objetivo General**
 
 El objetivo principal de este proyecto es desarrollar un curso interactivo de introducción a la programación en Java, centrado en los conceptos de programación orientada a objetos (POO), para estudiantes de secundaria sin experiencia previa. A través de este curso, los estudiantes aprenderán los fundamentos básicos de Java y cómo aplicarlos para desarrollar programas sencillos, incluyendo la creación de aplicaciones basadas en POO.
